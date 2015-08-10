@@ -2,8 +2,13 @@
 
 Run these commands from the root of the proejct, and edit the `.env` to your liking.
 
+### Quickstart
+
 ```
-cp .env.example .env
+$ cp .env.example .env
+$ composer install
+$ npm install
+$ gulp
 ```
 
 ## Setup Homestead
