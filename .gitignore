@@ -2,3 +2,10 @@
 .env.*.php
 .env.php
 .env
+/vendor
+/node_modules
+Homestead.yaml
+Homestead.json
+public/build
+public/js
+public/css
